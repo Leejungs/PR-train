@@ -1,2 +1,2 @@
 # PR-train
-PR 연습
+PR 연습창
