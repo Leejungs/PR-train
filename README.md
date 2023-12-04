@@ -1,7 +1,7 @@
 잔디잔디잔디잔디ㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁ
 package study;ㅈㅇㅇㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴ
 
-import java.util.Scanner;
+import java.util.Scanner;ㅇㅁㄴㅇㅁㄴ
 
 public class Main {
 
