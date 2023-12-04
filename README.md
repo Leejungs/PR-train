@@ -1,3 +1,4 @@
+잔디잔디
 package study;
 
 import java.util.Scanner;
