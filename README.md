@@ -1,4 +1,4 @@
-잔디잔디잔디잔디ㅇㅁㄴㅇㅁㄴ
+잔디잔디잔디잔디ㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁ
 package study;ㅈㅇㅇ
 
 import java.util.Scanner;
