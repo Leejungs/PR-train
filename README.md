@@ -1,5 +1,5 @@
 잔디잔디잔디
-package study;
+package study;ㅈㅇㅇ
 
 import java.util.Scanner;
 
