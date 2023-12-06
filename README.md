@@ -3,7 +3,7 @@ package study;ㅈㅇㅇㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㄴㅁㅇㅁㄴ
 
 import java.util.Scanner;ㅇㅁㄴㅇㅁㄴ
 
-public class Main {ㅇㅁㄴ
+public class Main {ㅇㅁㄴㅇㄴㅁㅇㅁ
 
 	public static void main(String[] args) {ㅇㅁㄴㅇㅁㄴㅇㅁㄴ
 		Scanner scanner = new Scanner(System.in);
