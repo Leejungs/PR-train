@@ -1,14 +1,4 @@
-
-package study;ㅈㅇㅇㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㄴㅁㅇㅁㄴㅇㅁㄴㅇㅁㄴ
-ㅁㅇㅁㄴㅇㅁㄴ
-import java.util.Scanner;ㅇㅁㄴㅇㅁㄴ
-
-public class Main {ㅇㅁㄴㅇㄴㅁㅇㅁ
-
-	public static void main(String[] args) {ㅇㅁㄴㅇㅁㄴㅇㅁㄴ
-		Scanner scanner = new Scanner(System.in);
-		
-        System.out.println("제품을 선택하시오.");
+ㅁ
         System.out.println("1.Television 2. Radio");
         System.out.print("select: ");
         int productChoice = scanner.nextInt();
