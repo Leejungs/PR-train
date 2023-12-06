@@ -1,6 +1,6 @@
 
 package study;ㅈㅇㅇㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㄴㅁㅇㅁㄴㅇㅁㄴㅇㅁㄴ
-ㅁㅇㅁㄴ
+ㅁㅇㅁㄴㅇㅁㄴ
 import java.util.Scanner;ㅇㅁㄴㅇㅁㄴ
 
 public class Main {ㅇㅁㄴㅇㄴㅁㅇㅁ
