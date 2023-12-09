@@ -13,7 +13,7 @@
             int selecteChannel = scanner.nextInt();
             selecteProduct.changeChannel(selecteChannel);
             
-        } else if (productChoice == 2) {
+        } else if (productChoice == 2) {das
             selecteProduct = new Radio();
             System.out.println("Radio의 채널을 선택하시오.");
             System.out.println("1.107.7 MHz 2.98.1 MHz 3.104.5 MHz");
