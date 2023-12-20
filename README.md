@@ -2,7 +2,7 @@
         System.out.println("1.Television 2. Radio");
         System.out.print("select: ");
         int productChoice = scanner.nextInt();
-
+ㅇㅁㄴㅇㅁㄴ
         Product selecteProduct;
 ㅇㅁㄴㅇㅁㄴ
         if (productChoice == 1) ㅇㅁㄴ
