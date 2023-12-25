@@ -9,7 +9,7 @@
             selecteProduct = new Television();
             System.out.println("Television의 채널을 선택하시오. 1.KBS 2.MBC 3.SBS");
             System.out.println("1.KBS 2.MBC 3.SBS");
-            System.out.print("select: ");
+            System.out.print("select: ");dasdas
             int selecteChannel = scanner.nextInt();
             selecteProduct.changeChannel(selecteChannel);
             
