@@ -4,7 +4,7 @@
         int productChoice = scanner.nextInt();
 ㅇㅁㄴㅇㅁㄴ
         Product selecteProduct;
-ㅇㅁㄴㅇㅁㄴ
+ㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴ
         if (productChoice == 1) ㅇㅁㄴdasdas
             selecteProduct = new Television();
             System.out.println("Television의 채널을 선택하시오. 1.KBS 2.MBC 3.SBS");
