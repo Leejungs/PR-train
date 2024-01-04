@@ -1,6 +1,6 @@
 ㅁ
         System.out.println("1.Television 2. Radio");dasda
-        System.out.print("select: ");
+        System.out.print("select: ");sdsa
         int productChoice = scanner.nextInt();
 ㅇㅁㄴㅇㅁㄴ
         Product selecteProduct;
