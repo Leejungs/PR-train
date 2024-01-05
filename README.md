@@ -3,7 +3,7 @@
         System.out.print("select: ");sdsa
         int productChoice = scanner.nextInt();
 ㅇㅁㄴㅇㅁㄴ
-        Product selecteProduct;
+        Product selecteProduct;ㅇㅁㄴㅇ
 ㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁ
         if (productChoice == 1) ㅇㅁㄴdasdas
             selecteProduct = new Television();ㅇㅁㄴ
