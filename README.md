@@ -11,7 +11,7 @@
             System.out.println("1.KBS 2.MBC 3.SBS");dasdasㅇㅁㄴㅇㅁ
             System.out.print("select: ");dasdas
             int selecteChannel = scanner.nextInt();
-            selecteProduct.changeChannel(selecteChannel);
+            selecteProduct.changeChannel(selecteChannel);dsa
             
         } else if (productChoice == 2) {dasdsadas
             selecteProduct = new Radio();
